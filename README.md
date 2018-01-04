@@ -9,7 +9,7 @@ Copyright (c) 2014-2017 The Magi Core developers
 
 Coin Magi, derived from Bitcoin and PPCoin, is released under the terms of 
 the MIT license. See COPYING for more information or see 
-http://opensource.org/licenses/MIT.
+https://opensource.org/licenses/MIT.
 
 Intro
 ---------------------
@@ -62,7 +62,7 @@ If you are just starting to explore magi, or upgrading wallet from versions prio
 
 2) Remove the block-chain data under the .magi (unix-like system) or Magi (OS X or Windows) folder, except for wallet.dat;
 
-3) Download latest block-chain data from here: http://coinmagi.org/bin/block-chain;
+3) Download latest block-chain data from here: https://coinmagi.org/bin/block-chain;
 
 4) Unzip all the contents under "m-blockchain" into the .magi or Magi folder;
 
@@ -76,7 +76,7 @@ If you are just starting to explore magi, or upgrading wallet from versions prio
 
 Info
 ---------------------
-- Website: http://www.coinmagi.org
+- Website: https://www.coinmagi.org
 - Bitcointalk thread: https://bitcointalk.org/index.php?topic=735170.0
-- Forum: http://www.m-talk.org/
+- Forum: https://www.m-talk.org/
 - Freenode IRC: #magi
